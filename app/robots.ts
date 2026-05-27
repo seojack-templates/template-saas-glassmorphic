@@ -3,6 +3,6 @@ import type { MetadataRoute } from 'next';
 export default function robots(): MetadataRoute.Robots {
     return {
         rules: { userAgent: '*', allow: '/' },
-        sitemap: 'https://saas-glassmorphic.templates.seojack.website/sitemap.xml',
+        sitemap: 'https://template-saas-glassmorphic.seojack.site/sitemap.xml',
     };
 }

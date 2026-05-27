@@ -10,5 +10,5 @@ export interface SiteMeta {
 
 export const META: SiteMeta = {
     name: 'SaaS Glassmorphic',
-    tagline: 'Replace with the real tagline.',
+    tagline: 'Modern glassmorphism SaaS landing page template with frosted glass cards and dark gradient design',
 };
